@@ -1,0 +1,10 @@
+  => Password MongoDB in GH14 Eccommerce Store 
+gyuoshy1417 => Username MongoDB in GH14 Eccommerce Store 
+
+Connection => mongodb+srv://gyuoshy1417:<db_password>@gh14-ecommerce-store.qew4l.mongodb.net/?retryWrites=true&w=majority&appName=GH14-Ecommerce-Store => mongoose
+
+connection => mongodb+srv://gyuoshy1417:<db_password>@gh14-ecommerce-store.qew4l.mongodb.net/?retryWrites=true&w=majority&appName=GH14-Ecommerce-Store => Node.js
+
+
+cloud DB : 
+https://cloud.mongodb.com/v2/66c9faa42e518d2b1a38a857#/metrics/replicaSet/66c9fb8fc1de9b4254457a22/explorer/GH14-Ecommerce-Store/orders/find
